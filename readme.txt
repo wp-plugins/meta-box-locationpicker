@@ -3,7 +3,7 @@ Contributors: marcopetersdij
 Tags: meta, box, metabox, meta box, map, location, picker, locationpicker, mappicker
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,10 @@ array(
 )`
 
 Values saved in the 'map_placement_top' and 'map_placement_left' fields, are percentages from the top and left side of the image. To show a point on an image on your site, you can use these percentages to place the point. The ID's can be changed, but take note that the second and third ID needs to be the first ID with "_top" and "_left" appended.
+
+= Collaboration =
+
+This plugin has been built in collaboration with [de Internet Jongens](http://deinternetjongens.nl/ "de Internet Jongens")
 
 == Installation ==
 
