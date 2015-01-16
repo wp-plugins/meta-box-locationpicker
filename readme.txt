@@ -3,7 +3,7 @@ Contributors: marcopetersdij
 Tags: meta, box, metabox, meta box, map, location, picker, locationpicker, mappicker
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,6 +47,9 @@ This plugin has been built in collaboration with [de Internet Jongens](http://de
 3. Follow the instructions in the description above
 
 == Changelog ==
+
+= 1.1 =
+* Changes in readme.txt
 
 = 1.0 =
 * Initial version
