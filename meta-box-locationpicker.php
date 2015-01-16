@@ -4,7 +4,7 @@
   Plugin Name: Meta Box Locationpicker
   Plugin URI: http://www.deinternetjongens.nl
   Description: Meta Box field type for picking a location on an image, like a map
-  Version: 0.1
+  Version: 1.1
   Author: de Internet Jongens B.V.
   Author URI: http://www.deinternetjongens.nl
  */
