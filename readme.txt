@@ -13,6 +13,8 @@ Meta Box field to use when you need the user to pick a point on an image, like a
 
 This Meta Box field will let you create a Meta Box field in the admin to let the user pick a specific point in an image. Useful when you need a specific point on a map.
 
+To use this plugin, you need to have the [Meta Box](https://wordpress.org/plugins/meta-box/ "Meta Box") plugin installed.
+
 Usage:
 
 When creating a new field, 3 Meta Box fields need to be added to the Meta Box. The following is an example of the usage:
